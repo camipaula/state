@@ -1,0 +1,2 @@
+# state
+ patrón state
